@@ -15,7 +15,7 @@ Analista de datos con base en marketing digital (3+ años) y formación en progr
 ## Experiencia
 
 ### Analista de Marketing — CONECAR Nutrición
-**oct. 2024 – presente** · Santa Fe, Argentina · Remoto
+**oct. 2024 – mar. 2026** · Santa Fe, Argentina · Remoto
 
 - Construyo dashboards y reportes en Power BI para seguimiento de campañas SEO, SEM y e-mail marketing
 - Analizo datos de Google Analytics, Meta Ads y Manchise para identificar oportunidades de mejora en campañas
