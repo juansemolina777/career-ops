@@ -55,6 +55,7 @@ jul. 2025 – dic. 2025
 ### Universidad Nacional de Rosario (UNR)
 **Tecnicatura Universitaria en Inteligencia Artificial**
 ene. 2026 – jun. 2028 *(en curso)*
+*Plan de 1.828 hs. Programación I-III, Bases de Datos I-II, Aprendizaje Automático I-II, Procesamiento del Lenguaje Natural, Minería de Datos, Visión por Computadora, Fundamentos de Ciencia de Datos.*
 
 ---
 
